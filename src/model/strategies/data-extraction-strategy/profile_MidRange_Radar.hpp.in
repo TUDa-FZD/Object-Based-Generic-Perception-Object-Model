@@ -1,8 +1,0 @@
-
-        /// data_extraction_parameters
-        MidRange_Radar.data_extraction_parameters.reference_range_in_m = 120;
-        MidRange_Radar.data_extraction_parameters.max_range_in_m = 150;
-        MidRange_Radar.data_extraction_parameters.irradiation_pattern.elevation = {-10, 10};
-        MidRange_Radar.data_extraction_parameters.irradiation_pattern.azimuth = {-60, -42, -25, -10, -9, -6, 0, 6, 9, 10, 25, 42, 60};
-        MidRange_Radar.data_extraction_parameters.irradiation_pattern.elevation_azimuth_power_values = {{0, 0.075, 0.225, 0.375, 0.625, 1.00, 1.00, 1.00, 0.625, 0.375, 0.225, 0.075, 0}, {0, 0.075, 0.225, 0.375, 0.625, 1.00, 1.00, 1.00, 0.625, 0.375, 0.225, 0.075, 0}};
-        MidRange_Radar.data_extraction_parameters.detection_threshold_dB_stdv = 3;
